@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/56f03d4af6054d5c902bd7b52ced530b)](https://www.codacy.com/app/kdrn/webpagetest?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kdrn/webpagetest&amp;utm_campaign=Badge_Grade)
+
 Тестовое задание на позицию разработчика в тестировании в компанию "SolitClouds"
 =
 
